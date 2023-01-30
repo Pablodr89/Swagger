@@ -33,7 +33,7 @@ function updateFruta(req, res) {
         })
         res.status(200).json(frutas)
     } else {
-        res.status(500).json('La fruta no se ha actualizado con éxito')
+        res.status(500).json('La fruta no se ha actualizó con éxito')
     }
 }
 
