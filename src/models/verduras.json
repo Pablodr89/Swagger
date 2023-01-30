@@ -1,0 +1,30 @@
+[{
+  "id": 1,
+  "nombre": "Pimiento",
+  "color": "verde"
+},
+{
+  "id": 2,
+  "nombre": "Lechuga",
+  "color": "verde"
+},
+{
+  "id": 3,
+  "nombre": "Cebolla",
+  "color": "blanca"
+},
+{
+  "id": 4,
+  "nombre": "Berenjena",
+  "color": "Morado"
+},
+{
+  "id": 5,
+  "nombre": "Tomate",
+  "color": "Rojo"
+},
+{
+  "id": 6,
+  "nombre": "Pepino",
+  "color": "Verde"
+}]
